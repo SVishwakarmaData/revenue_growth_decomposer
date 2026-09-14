@@ -15,4 +15,5 @@ pip install yfinance pandas matplotlib
 jupyter notebook revenue_growth_decomposer.ipynb
 ```
 
-![chart](
+![chart](https://github.com/user-attachments/assets/7fe2a5e5-bf1b-44a7-bc98-b10984f69fb0)
+
